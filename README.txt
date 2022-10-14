@@ -1,5 +1,4 @@
 Hello and welcome!
 
-This will serve as setting up my basic recipe project in the Github repo. 
+This is my very basic recipe site. Super simple, straight to the point...for now. 
 
-Trying to remember everything as I go, so we'll see!
