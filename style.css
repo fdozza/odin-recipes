@@ -1,3 +1,25 @@
 * {
     background-color: azure;
+    font-family: Arial, Verdana, sans-serif;
 }
+
+img {
+    height: auto;
+    width: 500px;    
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    background-color: lightgray;
+}
+
+/*Need to rework the CSS a bit more before moving on*/
