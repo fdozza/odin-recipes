@@ -4,8 +4,12 @@
 }
 
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
-    width: 500px;    
+    width: 500px;
+        
 }
 
 h1 {
@@ -18,8 +22,31 @@ h2 {
     font-weight: bold;
 }
 
-p {
-    background-color: lightgray;
+h1,
+h2 {
+    text-align: center;
 }
 
-/*Need to rework the CSS a bit more before moving on*/
+p {
+    text-align: center;
+    margin: 10px;
+    padding-left: 350px;
+    padding-right: 300px;
+}
+
+.main-recipes {
+    padding-left: 50px;
+    padding-right: 300px;
+}
+
+ul {
+    margin: 10px;
+    padding-left: 600px;
+    padding-right: 300px;
+}
+
+ol {
+    margin: 10px;
+    padding-left: 400px;
+    padding-right: 300px;
+}
